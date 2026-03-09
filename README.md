@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Rituraj 
 
-<!--
-**Rituraj6047/Rituraj6047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Engineer · 3rd year CSE (AI & ML) at VIT Bhopal · Ex-Tata Steel
 
-Here are some ideas to get you started:
+**Currently building:
+-  [FileMyCa](https://github.com/Rituraj6047/FilemyCA) — GST data collection SaaS for Indian CA firms (Next.js · Supabase · TypeScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Previously built:**
+- 🔧 [eSim Tool Manager](https://github.com/Rituraj6047/esim-tool-manager) — Cross-platform EDA automation CLI (Python · 80%+ test coverage)
+- 👁️ Computer vision safety system at Tata Steel — vehicle detection at 92% accuracy across 4 live camera feeds
+
+**Stack I use:** Python · TypeScript · Next.js · React · FastAPI · Supabase · PyTorch · OpenCV · Docker · AWS
+
+📫 rituraj69546@gmail.com · [LinkedIn](https://linkedin.com/in/rituraj-singh-b19119290)
