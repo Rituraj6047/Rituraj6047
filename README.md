@@ -3,7 +3,7 @@
 AI Product Engineer — I build production LLM systems end-to-end.
 
 **Currently building:**
-- 🧪 [Praxya](https://praxya.in) — GHG compliance automation for Indian 
+- 🧪 [Praxya](https://www.praxya.in) — GHG compliance automation for Indian 
   chemical manufacturers. OCR → LLM extraction (Claude/Groq) → 
   stoichiometric GHG calc → BRSR-ready PDF. Full pipeline, solo-architected.
 
