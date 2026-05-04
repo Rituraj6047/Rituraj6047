@@ -1,14 +1,21 @@
-### Hi, I'm Rituraj 
+## Hi, I'm Rituraj
 
-AI Product Engineer · 3rd year CSE (AI & ML) at VIT Bhopal · Ex-Tata Steel
+AI Product Engineer — I build production LLM systems end-to-end.
 
-**Currently building:
--  [FileMyCa](https://github.com/Rituraj6047/FilemyCA) — GST data collection SaaS for Indian CA firms (Next.js · Supabase · TypeScript)
+**Currently building:**
+- 🧪 [Praxya](https://praxya.in) — GHG compliance automation for Indian 
+  chemical manufacturers. OCR → LLM extraction (Claude/Groq) → 
+  stoichiometric GHG calc → BRSR-ready PDF. Full pipeline, solo-architected.
 
 **Previously built:**
-- 🔧 [eSim Tool Manager](https://github.com/Rituraj6047/esim-tool-manager) — Cross-platform EDA automation CLI (Python · 80%+ test coverage)
-- 👁️ Computer vision safety system at Tata Steel — vehicle detection at 92% accuracy across 4 live camera feeds
+- 💼 FileMyCa — GST data collection SaaS for Indian CA firms 
+  (Next.js · Supabase · TypeScript) — shipped in 5 days
+- 🔧 eSim Tool Manager — Cross-platform EDA automation CLI 
+  (Python · 80%+ test coverage)
+- 👁 Computer vision safety system at Tata Steel — 92% accuracy 
+  across 4 live CCTV feeds
 
-**Stack I use:** Python · TypeScript · Next.js · React · FastAPI · Supabase · PyTorch · OpenCV · Docker · AWS
+**Stack:** Python · TypeScript · Next.js · FastAPI · Supabase · 
+Claude API · Groq · PyTorch · OpenCV · Docker
 
-📫 rituraj69546@gmail.com · [LinkedIn](https://linkedin.com/in/rituraj-singh-b19119290)
+📫 rituraj69546@gmail.com · [LinkedIn](https://www.linkedin.com/in/rituraj-singh-b19119290/)
